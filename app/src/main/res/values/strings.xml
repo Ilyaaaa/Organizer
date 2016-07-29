@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Organizer</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_network">Network error</string>
+    <string name="mem_check">Remember me</string>
+
+    <string name="code">Code</string>
+    <string name="confirm">Confirm</string>
+    <string name="error_code">This code is incorrect</string>
+
+    <string name="header">Header</string>
+    <string name="text">Text</string>
+    <string name="remind_check">Remind me</string>
+    <string name="add">Add</string>
+    <string name="edit">Confirm changes</string>
+    <string name="delete">Delete</string>
+
+    <string name="no_notes">Notes missing</string>
+</resources>
